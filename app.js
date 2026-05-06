@@ -1,2 +1,2 @@
-let n="shamsher Ali";
+let n="shamsher ";
 print(n);
